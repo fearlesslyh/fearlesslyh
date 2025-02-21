@@ -8,6 +8,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Backend&show_owner=fearlesslyh&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Frontend&show_owner=fearlesslyh&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearlesslyh&card_width=445&layout=compact&theme=jolly)
+
 ### Technology stack I have tried yet:
 - `TypeScript` Vue.js (vue3 & vite & TypeScript) frontend. React and 
 - `c` I learned it but haven't applied it to any big project.
