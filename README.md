@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Backend&show_owner=fearlesslyh&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Frontend&show_owner=fearlesslyh&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearlesslyh&card_width=445&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearlesslyh&card_width=445&layout=compact&theme=ambient_gradient )
 
 ### Technology stack I have tried yet:
 - `TypeScript` Vue.js (vue3 & vite & TypeScript) frontend. React and 
