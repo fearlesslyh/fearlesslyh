@@ -2,13 +2,13 @@
 - 👋 Hi, I’m Richard Liang, a College student in China. 
 - 👀 I’m interested in Backend development, mobile applications and distributed systems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearlesslyh&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearlesslyh&show_icons=true&theme=outrun)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=RpcMini&show_owner=fearlesslyh&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Backend&show_owner=fearlesslyh&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Frontend&show_owner=fearlesslyh&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=RpcMini&show_owner=fearlesslyh&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Backend&show_owner=fearlesslyh&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fearlesslyh&repo=User-Center-Frontend&show_owner=fearlesslyh&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearlesslyh&card_width=445&layout=compact&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearlesslyh&card_width=445&layout=compact&theme=synthwave)
 
 ### Technology stack I have tried yet:
 - `TypeScript` Vue.js (vue3 & vite & TypeScript) frontend. React and 
