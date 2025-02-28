@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fearlesslyh&card_width=445&layout=compact&theme=ambient_gradient )
 
-### Technology stack I have tried yet:
+### Technology stack I have already well acknowledged of yet:
 - `TypeScript` Vue.js (vue3 & vite & TypeScript) frontend. React and related frameworks and components such as Element UI ...
 - `c` I learned it but haven't applied it to any big project.
 - `Java` Java Web [SpringBoot](https://spring.io/projects/spring-boot/) backend.
