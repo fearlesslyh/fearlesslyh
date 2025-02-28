@@ -23,3 +23,4 @@
 - 📫 How to reach me: liangyihao@proton.me/2924395978@qq.com
 - 🌟 Waiting for your interaction!
 
+[![wakatime](https://wakatime.com/badge/user/018cce18-619a-440e-bf82-cfeedc0bba3b.svg)](https://wakatime.com/@018cce18-619a-440e-bf82-cfeedc0bba3b)
