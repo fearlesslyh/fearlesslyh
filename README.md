@@ -22,7 +22,7 @@
 
 ### Postscript:
 - 💞️ I’m looking to collaborate on Excellent front-end developers and someone who can lead me in the back-end direction.
-- 📫 How to reach me: liangyihao@proton.me/2924395978@qq.com
+- 📫 How to reach me: richardliang200512@gmail.com/fearless0101@qq.com
 - 🌟 Waiting for your interaction!
 
 [![wakatime](https://wakatime.com/badge/user/018cce18-619a-440e-bf82-cfeedc0bba3b.svg)](https://wakatime.com/@018cce18-619a-440e-bf82-cfeedc0bba3b)
